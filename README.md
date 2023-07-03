@@ -1,4 +1,8 @@
-ck Play
+Introduction
+A first-person maze-based adventure game with a captivating storyline about adventurers going on a world tour to amazing tourist attractions and landmarks across four continents with each location holding unforeseen dangers of their own waiting for the unsuspecting adventurers.
+
+About The Game
+
 There are 4 different locations within the game:
 Katanga Nation
 Baluba Kingdom
